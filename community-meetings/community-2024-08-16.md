@@ -2,8 +2,8 @@
 
 
 - Time: 2:30 pm UTC
-- [Narwhals community events calendar]() *ADD LINK*
-- Join via Google Meet at *ADD LINK*
+- [Narwhals community events calendar](https://calendar.google.com/calendar/u/0/embed?src=27ff6dc5f598c1d94c1f6e627a1aaae680e2fac88f848bda1f2c7946ae74d5ab@group.calendar.google.com)
+- [Join via Google Meet ](<https://meet.google.com/igm-dtqg-mrz)>)
 - [Community meetings notes archive](https://github.com/narwhals-dev/archive/tree/main/community-meetings)
 
 
